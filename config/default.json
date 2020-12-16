@@ -1,0 +1,6 @@
+{
+    "PORT": 5000,
+    "URL_DB": "mongodb+srv://admin:HrNdPzyshySTsgJI@cluster0.a2ovu.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret": "0zG7fLsaJ3FFvEE5I8jIUw0XIhpYge0Y",
+    "baseUrl": "http://localhost:5000"
+}
